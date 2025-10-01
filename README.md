@@ -1,4 +1,6 @@
 ## **ĐINH THỊ THI DUYÊN** 
+![Xin chào](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:87CEFA&height=200&section=header&text=Xin%20chào!%20🤍&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 ---
 
 ## **Thông tin cá nhân**
