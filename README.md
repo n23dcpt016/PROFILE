@@ -100,5 +100,6 @@
 ---
 
 🌸 **Cảm ơn anh/chị đã xem CV của tôi. Tôi hy vọng có cơ hội thể hiện khả năng và đóng góp cho các dự án sáng tạo trong tương lai.**
+
 ![Hello](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Xin+chào!;Mình+là+Duyen;Welcome+to+my+Profile!)
 
