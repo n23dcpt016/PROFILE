@@ -62,4 +62,5 @@
 ---
 
 🌸 **Cảm ơn anh/chị đã xem CV của tôi. Tôi hy vọng có cơ hội thể hiện khả năng và đóng góp cho các dự án sáng tạo trong tương lai.**
+![Gradient](https://capsule-render.vercel.app/api?type=shark&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&text=Duyen's%20Creative%20Space&fontSize=38&fontColor=ffffff)
 
